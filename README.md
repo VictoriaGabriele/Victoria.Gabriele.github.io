@@ -3,7 +3,7 @@
 
 
 Bouncing Ball Console Application
-[Click Here](https://github.com/VictoriaGabriele/BouncingBallConsoleApplication)
+[Click Here]()
 
 
 
