@@ -1,7 +1,7 @@
 ## Victoria Gabriele: Introduction to Programming 
 
 Bouncing Ball Console Application
-[Click Here](Victoria.Gabriele.github.io/BouncingBallConsoleApplication)
+[Click Here](VictoriaGabriele.github.io/BouncingBallConsoleApplication)
 
 
 
