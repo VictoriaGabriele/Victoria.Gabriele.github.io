@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Victoria Gabriele: Introduction to Programming 
 
 You can use the [editor on GitHub](https://github.com/VictoriaGabriele/Victoria.Gabriele.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
